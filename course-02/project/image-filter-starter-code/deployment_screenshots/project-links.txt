@@ -1,0 +1,12 @@
+UDAGRAM PROJECT URLs
+
+1. Git Hub Repo:
+https://github.com/FranciscaMensah/cloud-developer.git
+
+(Merged dev branch into master before pushing to github)
+
+2. Udagram Elastic Beanstalk url:
+http://udagram-mensah-v2-dev-dev.us-east-1.elasticbeanstalk.com/
+
+3. Test Endpoint:
+http://udagram-mensah-v2-dev-dev.us-east-1.elasticbeanstalk.com/api/v0/filteredimage?image_url=https://upload.wikimedia.org/wikipedia/commons/b/bd/Golden_tabby_and_white_kitten_n01.jpg
