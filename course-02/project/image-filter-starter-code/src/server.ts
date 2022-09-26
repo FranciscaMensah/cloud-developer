@@ -28,7 +28,6 @@ require('dotenv').config();
       return res.status(200).sendFile(filtered_image_path,
         () => { deleteLocalFiles([filtered_image_path]) })
     }
-
     catch (error) {
       console.log(error);
       return res.status(500).send("Internal Server Error");
